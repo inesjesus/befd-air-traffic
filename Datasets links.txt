@@ -1,0 +1,24 @@
+Links for the data (already filtered in case you want to check it out or I made any mistakes):
+https://ec.europa.eu/eurostat/databrowser/view/avia_paoc__custom_8727081/default/table?lang=en
+https://ec.europa.eu/eurostat/databrowser/view/rail_pa_quartal__custom_8727337/default/table?lang=en
+https://ec.europa.eu/eurostat/databrowser/view/demo_pjan__custom_8778044/default/table?lang=en
+
+------------------------------------------------------------------------------------------------------------------------------
+New data:
+https://ec.europa.eu/eurostat/databrowser/view/namq_10_gdp__custom_9286763/default/table?lang=en
+https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_midx__custom_9302544/default/table?lang=en
+https://ec.europa.eu/eurostat/databrowser/view/rail_if_line_na__custom_9309124/default/table?lang=en
+https://ec.europa.eu/eurostat/databrowser/view/reg_area3__custom_9309152/default/table?lang=en
+https://ec.europa.eu/eurostat/databrowser/view/tour_occ_mnor__custom_9326239/default/table?lang=en
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Links for the documentation:
+https://ec.europa.eu/eurostat/cache/metadata/en/avia_pa_esms.htm
+https://ec.europa.eu/eurostat/cache/metadata/en/rail_pa_esms.htm
+https://ec.europa.eu/eurostat/cache/metadata/en/demo_pop_esms.htm
+https://ec.europa.eu/eurostat/cache/metadata/en/namq_10_esms.htm
+https://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm
+
+Download the "Restrictions on internal movement" (being tested):
+https://ourworldindata.org/policy-responses-covid#international-and-domestic-travel
